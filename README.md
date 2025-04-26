@@ -1,4 +1,4 @@
-# python-practice Karanja Joy Wangari-189731
+# python-practice: KARANJA JOY WANGARI-189731
 
 # 1. SUM LIST ELEMENTS
 Adds all numbers in a list and returns total
